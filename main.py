@@ -14,7 +14,7 @@ from discord import FFmpegPCMAudio
 
 
 
-token = 'MTEwMDUzODI4MDQxNzcxMDE1Mg.GAUHa9.6ePi0Q8k95-Y4PZmJh_wRjwr8yc3_v0wpfYXGA'
+token = '***'
 
 intents = discord.Intents().all()
 client = discord.Client(intents=intents)
